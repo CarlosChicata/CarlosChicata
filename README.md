@@ -16,7 +16,9 @@ Actually i'm focus in two topic:
 
 ## Why did i choose both topics?
 
-I'm studying both topic because i think those are related. The data engineering indicate how create an infrastructure to store data from different sources and unificated into organizational data to consuming by data analytics, data scientists and end users. The privacy engineering indicate what, why and how data must be way to used in differents part of organization (services, internal and external users).
+I'm studying both topic because i think those are related. The data engineering indicate how create an infrastructure to store data from different sources and unificated into organizational data to consuming by data analytics, data scientists and end users. The privacy engineering indicate what, why and how data must be way to used in differents part of organization (services, internal and external users). 
+
+The first one in focus about infrastructure and integration of data but it needs to governance, security and control of access that the second one is specially focus.
 
 ## Notes about my content
 * Those are written in spanish (main language) and english. I think we need to more content in native language to conform of latam people but i need to write in english to scope of audition.
